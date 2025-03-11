@@ -9,3 +9,7 @@ M
 tests/licensing-terms.test.ts,f/a/fa3d4beb33d85864e3bb9e47261507d4d18b2e1c
 N
 contracts/licensing-terms.clar,a/e/ae6af3ee651cf3d4d61c81bf81c9580a23038d50
+M
+contracts/usage-tracking.clar,e/9/e9b09179d691ec658ec849bf83481dab4134e530
+L
+tests/usage-tracking.test.ts,f/3/f3ccbb830bb90abf63cbc09d0b13119cf315d93c
