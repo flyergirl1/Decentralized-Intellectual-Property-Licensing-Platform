@@ -5,3 +5,7 @@ N
 contracts/ip-registration.clar,8/6/8647bc5d2402fa87ccefde343d97eb59e2b9b613
 M
 tests/ip-registration.test.ts,d/1/d1af5956f90d37e8eb10704a35788d07175ea187
+M
+tests/licensing-terms.test.ts,f/a/fa3d4beb33d85864e3bb9e47261507d4d18b2e1c
+N
+contracts/licensing-terms.clar,a/e/ae6af3ee651cf3d4d61c81bf81c9580a23038d50
